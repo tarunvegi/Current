@@ -1,0 +1,13 @@
+cardNumber,cardType,
+5567894523129089,Master Card
+59012345678901235000000,Invalid: more than 19 digits
+4123456789123,Visa Card
+347856341908126,AmericanExpress Card
+6011111100007756,Discover Card
+3601112345678789,Invalid: Not a possible card number
+5167894523129089,Master Card
+4123456789123999,Visa Card
+377856341908126,AmericanExpress Card
+5367894523129089,Master Card
+6011*890HJrt6789,Invalid: non numeric characters
+,Invalid: empty/null card number
